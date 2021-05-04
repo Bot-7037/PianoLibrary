@@ -14,7 +14,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #03a9f4;
+    background: linear-gradient(#fff, #03a9f4);
 }
 .container{
     border-radius: 20px;
