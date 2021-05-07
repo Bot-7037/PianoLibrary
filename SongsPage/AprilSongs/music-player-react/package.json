@@ -1,5 +1,6 @@
 {
   "name": "music-player",
+  "homepage": "http://bot-7037.github.io/PianoLibrary/SongsPage/AprilSongs/music-player-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
